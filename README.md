@@ -12,3 +12,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 - Install the dependencies first and then run `npm run dev` locally.
 - You'll see a simple form with an input and a submit button. Write the question in the input and submit the form to communicate with the assistant. The query time can take a some time, so be patient (this should be reviewed for better Ux and Dx).
+
+## Debugging
+
+Following the [official documentation](https://nextjs.org/docs/pages/building-your-application/configuring/debugging), Some scripts have been provided in `.vscode/launch.json` to ease the debugging.
