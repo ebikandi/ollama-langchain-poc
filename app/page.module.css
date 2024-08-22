@@ -7,6 +7,12 @@
   min-height: 100vh;
 }
 
+.question {
+  width: 80vw;
+  height: 50vh;
+  font-size: 2rem;
+}
+
 .description {
   display: inherit;
   justify-content: inherit;
